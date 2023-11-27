@@ -1,0 +1,10 @@
+.topsearchbar {
+    width: 80%;
+
+    >input {
+        width: 60%;
+        height: 25px;
+        border-radius: 5px;
+        border: 1px solid #9191917f;
+    }
+}
