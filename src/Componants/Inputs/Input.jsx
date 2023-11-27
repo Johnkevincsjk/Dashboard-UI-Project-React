@@ -5,7 +5,6 @@ function Inputdata() {
     return <div class="row mb-5">
         <div class="col-3">
             <div class="mb-3">
-                hi
                 <label for="customerName" class="form-label">Customer</label>
                 <input type="text" class="form-control" id="customerName" placeholder="Enter customer name" />
             </div>
